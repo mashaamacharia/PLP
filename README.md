@@ -1,2 +1,2 @@
-# PLP
+# PLP Class
 Assignments submission
